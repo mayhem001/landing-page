@@ -1,0 +1,379 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: black;
+    
+    
+}
+
+.containerone{
+    background-image: url(red-hair.jpg.jpg);
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+    background-position: center;
+    text-align: center;
+    /* background-attachment: fixed; */
+    /* height: 300px; */
+    /* padding: 50px; */
+    /* color: white; */
+    /* color: black; */
+
+    
+    
+
+    
+    
+
+} 
+
+.submain{
+    margin: 0 auto 0;
+}
+.containerone p, h2, h1 {
+    color: black;
+}
+
+.steps img {
+    height: 420px;
+    max-width:300px;
+    margin-top: 20px;
+}
+.steps{
+    border: 1px solid rgba(0, 0, 0, 0.073);
+
+    /* width: 350px; */
+    margin: 10px;
+    text-align: center;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    /* margin-top: 50px; */
+
+}
+.flirt {
+    display: flex;
+    /* margin: 50px; */
+    /* width: 80%; */
+    max-width: 80%;
+    margin: 0 auto 0;
+    align-items: center;
+    gap: 2rem;
+    margin-top: 50px;
+    
+    
+}
+button{
+    height: 40px;
+    width: 150px;
+    background-color: black;
+    color: white;
+    margin-bottom: 40px;
+    margin-top: 30px;
+
+}
+button:hover{
+    background-color: white;
+    color: rgba(0, 0, 0, 0.304);
+    
+}
+
+p{
+    font-size: 13px;
+    width: 300px;
+    margin: auto;
+}
+.text{
+    text-align:center ;
+    margin-top: 40px;
+}
+.text p {
+    font-size: 15px;
+    width: 60%;
+    margin-top: 40px;
+}
+.confambtn{
+    text-align: center;
+    margin: 0 auto 0;
+    justify-content: center;
+    align-items: center;
+    margin-left: 45%;
+    width: 150px;
+
+
+
+}
+
+.lastsection{
+    background-image: url(red-hair.jpg.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+.vertical-text {
+  display: inline-block;
+  overflow: hidden;
+  animation: scroll-vertical 6s linear infinite;
+  /* border: 1px solid rgb(191, 174, 174); */
+  width: 700px;
+  
+  
+}
+
+@keyframes scroll-vertical {
+  0% {
+    transform: translatex(10%);
+  }
+  100% {
+    transform: translatex(-10%);
+  }
+}
+
+
+
+
+
+.containerone{
+    background-image: url(red-hair.jpg.jpg);
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+    background-position: center;
+    text-align: center;
+    /* background-attachment: fixed; */
+    /* height: 300px; */
+    /* padding: 50px; */
+    /* color: white; */
+    opacity: 0.8;
+
+    
+    
+
+    
+    
+
+} 
+/* 
+.submain{
+    margin: 0 auto 0;
+} */
+.containerone p, h2, h1 {
+    color: wheat;
+}
+
+.steps img {
+    height: 400px;
+    max-width:300px;
+    margin-top: 20px;
+}
+.steps{
+    border: 2px solid rgb(0, 0, 0);
+
+    /* width: 350px; */
+    /* margin: 10px; */
+    text-align: center;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+
+}
+.flirt {
+    display: flex;
+    /* margin: 50px; */
+    /* width: 80%; */
+    max-width: 80%;
+    margin: 0 auto 0;
+    align-items: center;
+    gap: 2rem;
+    
+    
+}
+
+button{
+    height: 40px;
+    width: 150px;
+    background-color: black;
+    color: white;
+    margin-bottom: 40px;
+    margin-top: 30px;
+
+}
+button:hover{
+    background-color: white;
+    color: rgba(0, 0, 0, 0.304);
+    
+}
+
+p{
+    font-size: 13px;
+    width: 300px;
+    margin: auto;
+}
+.text{
+    text-align:center ;
+    margin-top: 40px;
+}
+.text p {
+    font-size: 15px;
+    width: 60%;
+    margin-top: 40px;
+}
+.confambtn{
+    text-align: center;
+    margin: 0 auto 0;
+    justify-content: center;
+    align-items: center;
+    margin-left: 45%;
+    width: 150px;
+    margin-top: 40px;
+
+
+
+}
+
+section{
+    background-image: url(red-hair.jpg.jpg);
+    background-size: cover;
+    background-position: center;
+    opacity: 0.8;
+    margin-top: 40px;
+}
+
+.lastsection{
+    background-image: url(fishing-9246364_1920.jpg);
+    background-size: cover;
+    background-position: center;
+    opacity: 0.5;
+    height: auto;
+}
+form{
+    width: 400px;
+    height: 500px;
+    background-color: rgba(255, 255, 255, 0.406);
+    /* align-items: center; */
+    /* justify-content: center; */
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.summary img {
+    width: 100px;
+    height: 100px;
+    border: 2px solid white;
+    padding: 5px;
+}
+.summary {
+    /* background-color: rgba(0, 0, 0, 0.349); */
+    align-items: center;
+    /* height: 60vh; */
+    background-image: url(old-woman.jpg);
+    background-size: cover;
+    background-position: center;
+    opacity: 0.5;
+}
+.boxone {
+    width: 100px;
+
+    
+}
+.box {
+    display: flex;
+    gap: 10rem;
+    justify-content: center;
+    padding-top: 40px;
+}
+.formlast {
+    height: 500px;
+    width: 500px;
+    margin: auto;
+}
+
+
+
+input, select, textarea {
+    width: 70%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    /* text-align: center; */
+}
+
+.vertical-text {
+  display: inline-block;
+  overflow: hidden;
+  animation: scroll-vertical 6s linear infinite;
+}
+
+@keyframes scroll-vertical {
+  0% {
+    transform: translatex(10%);
+  }
+  100% {
+    transform: translatex(-10%);
+  }
+}
+
+
+
+
+
+
+
+@media (max-width: 768px) {
+    .flirt {
+        display: grid; /* Keep the grid layout for better responsiveness */
+        gap: 1rem; /* Add a gap for spacing between elements */
+        width: 100%; /* Ensure it takes the full width */
+        margin: 0 auto 0; /* Center the grid */
+    }
+
+    .containerone p, .containerone h1, .containerone h2 {
+        font-size: 12px; /* Slightly increase font size for better readability on smaller screens */
+        line-height: 1.5; /* Improve readability with proper line height */
+        margin: auto; /* Add spacing between text elements */
+    }
+
+    .containerone {
+        padding: 1rem; /* Add padding for better spacing within the container */
+        text-align: center; /* Center text for smaller screens */
+    }
+
+    .steps img {
+        margin-top: 20px; /* Maintain spacing at the top */
+        height: auto; /* Allow the height to adjust proportionally */
+        max-width: 100%; /* Ensure images don’t exceed their container width */
+        width: 200px; /* Set a reasonable default width */
+    }
+}
+
+
+ @media (min-width: 992px) { 
+    .flirt {
+        display: flex;
+        width: 100%;
+        gap: 1rem;
+
+    }
+    .steps img {
+        margin-top: 20px;
+        width: 150px;
+        height: auto;
+
+
+    }
+
+ } 
+
+
+
+
+
+
+  
+
+
+  
+
